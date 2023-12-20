@@ -1,0 +1,7 @@
+AWS 
+
+AWS Access Key ID:
+AKIAVXABQ2FHOTS4FV7J
+
+AWS Secret Access Key:
++dVF6cLMWVYVzhzxSKcZR2uFi8MEix7NwRt+hmR5
